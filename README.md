@@ -1,4 +1,4 @@
-# DNS TrustPositif — Internet Sehat Indonesia 2045
+# DNS TrustPositif — Internet Sehat - Indonesia Emas 2045
 
 > DNS filtering project untuk membangun ekosistem internet yang lebih aman, bersih, dan terkontrol di Indonesia.
 
